@@ -1,1 +1,1 @@
-# touch
+Touch - A Pc Controller. Touch-Client is an Android application which can be connected to a Pc using Wi-fi or Usb-tethering. And then we can control the Windows Pc using the mobile to Do stuffs and Play some Games.
